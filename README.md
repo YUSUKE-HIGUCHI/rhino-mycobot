@@ -10,7 +10,7 @@ Now you can move a digital robot and an actual machine in real time! With 6 axes
 | item |  |
 | --- | --- |
 | OS | Windows10 |
-| Robot Arm | myCobot |
+| Arm Robot | myCobot |
 | CAD | Rhinoceros7 |
 | python | Anaconda3.8 |
 ## Usage
