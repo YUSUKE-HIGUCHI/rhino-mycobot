@@ -55,3 +55,8 @@ If you have a mycobot, make mycobot component enable. So, the mycobot will move!
 ## Author
 
 [yusukehiguchi](https://github.com/YUSUKE-HIGUCHI)
+## Thanks
+
+[Gramazio Kohler Research](https://github.com/gramaziokohler/workshop_tokyo_2020) for grasshopper model
+
+[Tiryoh](https://github.com/Tiryoh/mycobot_ros) for urdf file
