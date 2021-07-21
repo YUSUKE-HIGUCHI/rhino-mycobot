@@ -17,6 +17,8 @@ Now you can move a digital robot and an actual machine in real time! With 6 axes
 Open the command prompt
 
 1. Install pymycobot. See how to install it. https://github.com/elephantrobotics/pymycobot (AtomMain2.5 + pymycobot v2.2.0, or AtomMain2.4 + pymycobot v2.1.2)
+  
+    Check [karaage's zenn book](https://zenn.dev/karaage0703/books/3be6bad93b0c8e) for a more detailed explanation.(in Japanese)
 1. Install [COMPAS packages](https://compas.dev/compas/latest/installation.html).(This package is made by ETHZ)
   
     The recommended way to install COMPAS is with conda. For example, create an environment named research and install COMPAS.
