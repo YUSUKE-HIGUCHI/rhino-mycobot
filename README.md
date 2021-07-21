@@ -14,6 +14,8 @@ Now you can move a digital robot and an actual machine in real time! With 6 axes
 | CAD | Rhinoceros7 |
 | python | Anaconda3.8 |
 ## Preparation
+Open the command prompt
+
 1. Install pymycobot. See how to install it. https://github.com/elephantrobotics/pymycobot (AtomMain2.5 + pymycobot v2.2.0, or AtomMain2.4 + pymycobot v2.1.2)
 1. Install [COMPAS packages](https://compas.dev/compas/latest/installation.html).(This package is made by ETHZ)
   
@@ -23,6 +25,7 @@ Now you can move a digital robot and an actual machine in real time! With 6 axes
     conda create -n research python=3.8 COMPAS
     ```
     You could provide a Rhino version number (6.0, 7.0). The default is 6.0.
+    To make COMPAS FAB available inside Rhino and type the following:
     ```
     python -m compas_rhino.install -v 7.0
     ```
@@ -33,7 +36,7 @@ Now you can move a digital robot and an actual machine in real time! With 6 axes
     ```
     conda install -n research python=3.8 compas_fab
     ```
-    To make COMPAS FAB available inside Rhino, open the command prompt, activate the appropriate environment, and type the following:
+    To make COMPAS FAB available inside Rhino and type the following:
     ```
     python -m compas_rhino.install -v 7.0
     ```
@@ -45,6 +48,7 @@ If you have a mycobot, connect myCobot and PC with USB-C cable. If you don't, pl
 3. Click 'load' button, so you can see the model of mycobot.
 ![image](https://user-images.githubusercontent.com/36808163/126385545-cae1eed2-320d-4ccf-b818-9d5a90a877e0.png)
 
+If you have a mycobot, make mycobot component enable. So, the mycobot will move!
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
