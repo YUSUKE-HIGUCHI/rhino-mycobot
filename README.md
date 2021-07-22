@@ -46,7 +46,7 @@ Open the command prompt
 If you have a mycobot, connect myCobot and PC with USB-C cable. If you don't, please ignore this.
 
 1. Download mycobot_artist_grasshopper.ghx and mycobot to any folder.
-2. Start rhinoceros, grasshopper, and open mycobot_artist_grasshopper.gfx
+2. Start rhinoceros, grasshopper, and open mycobot_artist_grasshopper.gx
 3. Click 'load' button, so you can see the model of mycobot.
 ![image](https://user-images.githubusercontent.com/36808163/126385545-cae1eed2-320d-4ccf-b818-9d5a90a877e0.png)
 
