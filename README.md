@@ -5,7 +5,11 @@ unofficial myCobot Package
 Now you can move a digital robot and an actual machine in real time! With 6 axes, you can use Rhino+Grasshopper to link any object with urdf and an actual machine.
 ![E4ej41dVIAA0QH1](https://user-images.githubusercontent.com/36808163/126074631-a4cc930a-aa1e-41f8-a7f3-36da0dc6f8e4.jpg)
 ## Demo
-[youtube](https://www.youtube.com/watch?v=F2F7dBSZWgw)
+
+
+https://user-images.githubusercontent.com/36808163/126579699-ad6c878a-de22-4357-964a-f25803434101.mp4
+
+
 ## Requirement
 | item |  |
 | --- | --- |
