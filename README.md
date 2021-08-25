@@ -32,7 +32,9 @@ Open the command prompt
     You could provide a Rhino version number (6.0, 7.0). The default is 6.0.
     To make COMPAS FAB available inside Rhino and type the following:
     ```
+    conda activate research
     python -m compas_rhino.install -v 7.0
+    conda deactivate
     ```
  
 1. Install [COMPAS FAB](https://gramaziokohler.github.io/compas_fab/latest/getting_started.html).(This package is made by ETHZ)
@@ -43,6 +45,7 @@ Open the command prompt
     ```
     To make COMPAS FAB available inside Rhino and type the following:
     ```
+    conda activate research
     python -m compas_rhino.install -v 7.0
     ```
 ## Usage
