@@ -46,7 +46,7 @@ Open the command prompt
     To make COMPAS FAB available inside Rhino and type the following:
     ```
     conda activate research
-    python -m compas_rhino.install -v 7.0
+    python -m compas_rhino.install -p compas_fab -v 7.0
     ```
 ## Usage
 If you have a mycobot, connect myCobot and PC with USB-C cable. If you don't, please ignore this.
